@@ -1,0 +1,5 @@
+mysql -u root -p        > para entrara a mysql
+SHOW DATABASES;         > Muestra todas las bases de datos que tengamos en nuestro servidor
+SHOW TABLES;            > Muestar las tablas hechas
+USE database_name;      > Usaremos esa base de datos en la terminal
+SELECT DATABASE();      > Mostrara la base de datos que estoy utilizando actualmente
